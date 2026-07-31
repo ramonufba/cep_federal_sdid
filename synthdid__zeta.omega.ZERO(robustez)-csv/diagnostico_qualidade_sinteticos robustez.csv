@@ -1,0 +1,22 @@
+"catmat","item","outcome","rmspe_norm_trat","rmspe_pre","p_slope_pre","slope_pct_pre","tipo","max_omega","n_omega_pos","hhi_concentracao","N0","T0","Y_real_medio_pre"
+445484,"Água mineral sem gás descartável","n_fornecedores",0.5106,5.5773,0.452,-0.52,"II",0.23338,7,17.19,100,16,44.875
+445484,"Água mineral sem gás descartável","n_combinacoes_unidade",0.6212,1.1566,0.012,-1.52,"III",0.26868,9,14.53,95,16,10
+445484,"Água mineral sem gás descartável","median_preco",0.2804,0.0955,0.633,-0.13,"II",0.21412,15,9.49,73,16,2.1152
+445485,"Água mineral sem gás retornável","n_fornecedores",0.8742,17.7085,0.838,-0.24,"I",0.47957,6,32.29,100,16,87.625
+445485,"Água mineral sem gás retornável","n_combinacoes_unidade",0.458,0.4646,0.289,0.61,"II",0.45488,6,27.78,95,16,4.6875
+445485,"Água mineral sem gás retornável","median_preco",0.5633,0.0292,0.032,-0.59,"III",0.58943,18,26.77,73,16,0.4605
+463990,"Açúcar cristal orgânico","n_fornecedores",0.9164,1.0541,0.021,-3.7,"III",0.33865,8,7.42,35,20,2.425
+463990,"Açúcar cristal orgânico","n_combinacoes_unidade",0.7359,0.499,0.887,-0.2,"II",0.27947,7,14.06,65,20,1.475
+463990,"Açúcar cristal orgânico","median_preco",0.8865,1.5855,0.317,-1.28,"II",0.49056,7,25.15,75,20,4.9703
+603269,"Açúcar cristal comum","n_fornecedores",0.5364,12.3922,0.363,0.55,"I",0.38475,5,26.37,100,20,82.9
+603269,"Açúcar cristal comum","n_combinacoes_unidade",0.629,1.2459,0.196,-0.51,"I",0.29322,6,18.95,96,20,12.65
+603269,"Açúcar cristal comum","median_preco",0.8427,0.1442,0.004,-0.32,"III",0.17934,14,9.11,75,20,4.2133
+606522,"Café torrado moído torra escura","n_fornecedores",0.5193,2.778,0.031,-1.17,"III",0.27949,8,20.18,100,20,18.75
+606522,"Café torrado moído torra escura","n_combinacoes_unidade",0.6551,0.6755,0.566,-0.34,"II",0.37057,9,20.82,95,20,4.7
+606522,"Café torrado moído torra escura","median_preco",0.5501,1.3509,0.39,-0.16,"I",0.22213,11,8.32,62,20,29.5845
+606523,"Café torrado moído torra média","n_fornecedores",0.4556,5.611,0.41,-0.4,"II",0.34672,8,20.52,100,20,47.7
+606523,"Café torrado moído torra média","n_combinacoes_unidade",0.6337,0.5151,0.587,0.19,"II",0.21911,11,14.76,96,20,6.15
+606523,"Café torrado moído torra média","median_preco",0.2788,0.424,0.305,-0.06,"I",0.33218,15,11.95,60,20,31.5718
+606524,"Café torrado moído torra clara","n_fornecedores",0.4992,3.2031,0.874,-0.1,"I",0.42414,6,28.04,100,20,20.3
+606524,"Café torrado moído torra clara","n_combinacoes_unidade",0.5326,0.5699,0.241,-0.51,"II",0.37295,9,19.85,96,20,5.25
+606524,"Café torrado moído torra clara","median_preco",0.6301,1.456,0.119,-0.29,"I",0.20373,11,7.91,60,20,31.1587
